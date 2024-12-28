@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Este projeto consiste em um jogo da memória simples e interativo, desenvolvido em dupla como parte da disciplina **Introdução à Programação para Engenharias (SCC0124)** da **Universidade de São Paulo (USP)**. <br>
+    Este projeto consiste em um jogo da memória simples e interativo, desenvolvido em dupla como parte da disciplina Introdução à Programação para Engenharias (SCC0124) da Universidade de São Paulo (USP). <br>
 </p>
 
 ## 🎯 Objetivo
